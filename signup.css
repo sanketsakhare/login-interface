@@ -1,0 +1,110 @@
+div{
+	/*background:url(http://getwallpapers.com/wallpaper/full/4/8/9/73669.jpg);*/
+	margin: 10px auto;
+	width:600px;
+	height:700px;
+	padding:30px;
+	padding-top:3px;
+}
+
+input[type="text"]{
+	margin:10px;
+	text-align: center;
+	width:348px;
+	height:33px;
+	margin-left:120px;
+	border-radius:5px;
+	font-size:20px;
+	border:transparent 1px solid;
+
+}
+
+input[type="password"]{
+	margin:10px;
+	text-align: center;
+	width:350px;
+	height:35px;
+	margin-left:120px;
+	border-radius:5px;
+	font-size:20px;
+	margin-top: 20px;
+	border:transparent 1px solid;
+}
+
+input[type="email"]{
+	margin:10px;
+	text-align: center;
+	width:350px;
+	height:35px;
+	margin-left:120px;
+	border-radius:5px;
+	font-size:20px;
+	border:transparent 1px solid;
+}
+
+h2{
+	text-align:center;
+}
+
+#special{
+	margin-right:40px;
+}
+label{
+	margin-left:90px;
+}
+body{
+	font-size: 20px;
+	color:white;
+	background:black;
+	/*background:url(http://getwallpapers.com/wallpaper/full/4/8/9/73669.jpg);*/
+}
+button{
+	margin-top:1px;                   
+	height:30px;
+	width:150px;          
+	font-size:20px;          
+	margin:20px;          
+	margin-left:120px;          
+	border-radius: 5px;          
+	background:#2E86C1 ;  
+	border:transparent 1px solid;      
+
+
+}
+
+input:hover{
+	border:blue solid 1px;
+}
+
+
+button:hover{
+	border:solid red 1px;
+}
+
+
+hr{
+    border: 0;
+    height: 3px;
+    background: #333;
+    background-image: linear-gradient(to right, #ccc, #333, #ccc);
+}
+
+
+p{
+	padding:5px 10px 5px 10px;
+}
+
+
+a:alink{
+	color:yellow;
+}
+
+a:visited{
+	color:white;
+}
+
+.button{
+	margin-left:30px;
+	border-radius:5px;
+
+}
